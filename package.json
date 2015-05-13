@@ -5,8 +5,9 @@
   "dependencies": {
     "socket.io": "^1.2.0"
   },
-  "main": "index.js",
   "scripts": {
+    "main": "index.js",
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
