@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "A front side service for interfacing with multiple clients.",
+  "dependencies": {
+    "socket.io": "^1.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clazellLS/Matrix.git"
+  },
+  "author": "Cameron Lazell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clazellLS/Matrix/issues"
+  },
+  "homepage": "https://github.com/clazellLS/Matrix"
+}
